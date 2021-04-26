@@ -1,6 +1,8 @@
 # LyricAnalysis27Club
 In recent years, many of our favorite artists have been telling stories of their mental states as well as personal stories. Rapper Mac Miller wrote about his drug usage, which foreshadowed his death in 2018. Mac Miller, Lil Peep, Avicii, and Chester Bennington are just some contemporary artists whose personal struggles (expressed through their music) and untimely demises have created shockwaves across the industry. But this trend has roots in incidents that reach back to at least the 1970’s, with the formation of the infamous 27 Club. Janis Joplin, Jimi Hendrix, Jim Morrison, and many others have contributed in creating an almost cult-like reverence for the tragic ending of a musician’s life via their own demons and vices. The struggles of modern musicians and the long history of overlooking their underlying issues inspired us to look at whether or not lyrical analysis of their works and activities can help predict self-harm behavior for artists in the future.
-Introduction
+
+# Introduction
+
 In recent years, many of our favorite artists have been telling stories of their mental states as well as personal stories. Rapper Mac Miller wrote about his drug usage, which foreshadowed his death in 2018. Mac Miller, Lil Peep, Avicii, and Chester Bennington are just some contemporary artists whose personal struggles (expressed through their music) and untimely demises have created shockwaves across the industry. But this trend has roots in incidents that reach back to at least the 1970’s, with the formation of the infamous 27 Club. Janis Joplin, Jimi Hendrix, Jim Morrison, and many others have contributed in creating an almost cult-like reverence for the tragic ending of a musician’s life via their own demons and vices. The struggles of modern musicians and the long history of overlooking their underlying issues inspired us to look at whether or not lyrical analysis of their works and activities can help predict self-harm behavior for artists in the future.
 
 # Prior Work
@@ -27,28 +29,43 @@ We found 23 artists that have high correlation with our hypothesis, 11 with more
 Strong correlation (23/57) (Average: 0.547693) (Average age: 61.82)
 
 Artist who are alive
+
 Bobby Brown: 0.644654
 Alive(50); cocaine, credits sobriety to not wanting to go back to jail
+
 Brian Wilson: 0.554533
 Alive(76); history of LSD use
+
 Britney Spears: 0.442178
 Alive(37); alcoholism, rehab, crew banned alcohol
+
 Donovan: 0.416699 Alive(72); recreational cannabis use
+
 Elton John: 0.377940 Alive(71); cocaine, was able to get sober
+
 Keith Urban: 0.610 Alive(51); credits wife for sobriety
+
 Among those 11 artists with positive lyrics, 6 are still alive (average age: 59.5), crediting sobriety to their long-lasting success.
+
 Britney Spears, who has struggled with alcoholism, was finally able to get sober after multiple stints in rehab and those around her have taken measures such as banning alcohol on tours to maintain her success. Bobby Brown, who has battled cocaine addiction for years, says imprisonment was the final straw and was able to reach sobriety, citing never wanting to go back to jail as motivation. Lastly, with the help of his wife, Keith Urban was able to free himself from drug and alcohol addiction.
+
 Died of Non-Drug Related Deaths
+
 Louis Armstrong: 0.501
 Died at 69; heavy cannabis use, heart attack
+
 Natalie Cole: 0.684
 Died at 65; heart attack
+
 Ray Charles: 0.474
 Died at 73; liver disease
+
 Rick James: 0.7877
 Died at 56; heart attack, drug use, periods of sobriety
+
 Syd Barrett: 0.531924
 Died at 60; pancreatic cancer, psychedelics
+
 The other 5 artists with positive lyrics had an average lifespan of 64.6 years, with deaths unrelated to alcohol or drug abuse.
 
 Drugs are prevalent in the music industry. Even though each of these 5 artists has battled their fair share of drug addiction, they have also had long periods of successful sobriety. Louis Armstrong was a heavy cannabis user who ultimately died of a heart attack at 69 (unrelated to drugs), having said cannabis is “a thousand times better than whiskey” (Andrews, E. (2016, August 04)). Like Armstrong, Natalie Cole died at 65 and Rick James at 56 of a heart attack. Syd Barrett’s life was lost to pancreatic cancer at 60.
@@ -56,26 +73,37 @@ Drugs are prevalent in the music industry. Even though each of these 5 artists h
 Negative (History of drug abuse/died of drugs) (Average: 0.049994) (Average age of death 42)
 Chris Cornell: 0.052960
 Died at 52; suicide by hanging
+
 Esther Phillips: 0.331003
 Died at 52; liver/kidney failure, drug abuse
+
 Gary Moore: 0.183071
 Died at 51; Alcohol poisoning
+
 Jim Morrison: 0.143940
 Died at 27; Heart attack (drug related)
+
 Jimi Jamison: -0.953100
 Died at 63; Stroke (Drug related)
+
 Johnny Thunders: 0.081455
 Died at 38; Drug-related
+
 Mac Miller: -0.09
 Died at 27; overdose
+
 Paul Butterfield: 0.306
 Died at 44; overdose
+
 Phil Lynott: 0.032
 Died at 36; heart failure
+
 Scott Weiland: 0.027227
 Died at 48; overdose
+
 Sid Vicious: 0.260917
 Died at 21; overdose
+
 Vic Chesnutt: 0.224449
 Died at 45; overdose
 
@@ -94,12 +122,19 @@ Positive (Alive/Died of Non-Drug Related Causes) (Average: 0.3928) (Average age:
 
 Bob Marley: 0.341659 (skin cancer; 36)
 David Bowie: 0.154884 (liver cancer; 69)
+
 George Harrison: 0.500682 (heart attack; 58)
+
 Jerry Garcia: 0.421189 (heart attack; 53)
+
 Gerry Rafferty: 0.570852 (heart attack; 63)
+
 Michael Jackson: 0.421 (heart attack; 50)
+
 Neil Young: 0.384 (alive; 73)
+
 Tom Petty: 0.463397 (heart attack; 66)
+
 Yoko Ono: 0.277256 (alive; 86)
 
 Among those 9 artists who are alive or died of non-drug related causes lyrics (average age: 59.5), the average lyric score was 0.3928 and the average age was 61.55 years.
@@ -109,18 +144,31 @@ In particular, the 2 who are still alive, Neil Young (lyric score of 0.384, age 
 Negative (History of drug abuse/died of drugs) (Average: 0.437440) (Average age: 38.5)
 
 Amy Winehouse: 0.330705 (alcohol poisoning; 27)
+
 Bon Scott: 0.190650 (alcohol poisoning; 33)
+
 David Ruffin: 0.573835 (overdose; 50)
+
 Dee Dee Ramone: 0.438300 (overdose; 50)
+
 Dinah Washington: 0.532280 (overdose; 39)
+
 Jimi Hendrix: 0.444076 (overdose; 27)
+
 Judee Sill: 0.567135 (overdose; 35)
+
 Kevin Dubrow: 0.369 (overdose; 52)
+
 Nick Drake: 0.528 (suicide; 26)
+
 Prince: 0.553 (overdose; 57)
+
 Tim Buckley: 0.380397 (overdose; 28)
+
 Tim Hardin: 0.479188 (overdose; 49)
+
 Tommy Bolin: 0.458900 (overdose; 25)
+
 Tony Sly: 0.278700 (overdose; 41)
 
 Among the 14 artists that were a direct result of drug overdose or alcohol poisoning, the average lyric score of these artists was 0.437440 and lifespan of 38.5 years.
@@ -130,17 +178,29 @@ In this sample, we note virtually no difference in lyric score between artists w
 Weak correlation (i.e. outliers) (11/57)
 
 Positive, Dead (Average: 0.772647)
+
 Billy Mackenzie: 0.991200 (overdose; 39)
+
 Frankie Lymon: 0.504580 (overdose, 26)
+
 Gram Parsons: 0.490447 (overdose; 26)
+
 Ike Turner: 0.829185 (overdose, 76)
+
 Jesse Ed Davis: 0.958500 (overdose; 43)
+
 Keith Moon: 0.822371 (overdose; 32)
+
 Lowell George: 0.928 (overdose, 34)
+
 Whitney Houston: 0.656898 (overdose; 49)
+
 Negative, Alive (Average: -0.08732)
+
 Izzy Stradlin: 0.163120 (alive(56); history of drug abuse)
+
 Ozzy Osborn: -0.19 (alive(70), history of drug abuse)
+
 Snoop Dogg: -0.235080 (alive(47), history of drug abuse)
 
 For every rule, there is an exception. In our case, we have 11. In particular, 8 of the 11 who died of an overdose had an average score of 0.772647, which indicates a large amount of positivity in their lyrics. By our measure, these artists live (or had lived) long, drug-free lives with little to no mental health issues. However, this is not the case. Sadly, all 7 artists’ lives were lost to suicide or drug overdose in their 20s to 40s (average age of 35.57 years old).
